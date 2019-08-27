@@ -1,0 +1,24 @@
+{
+  "name": "graphql-prisma-app",
+  "version": "1.0.0",
+  "description": "A simple blogging application that illustrates the authentication using graphql prisma and mongodb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sajalarora11/graphql-prisma-app.git"
+  },
+  "author": "Sajal Arora",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sajalarora11/graphql-prisma-app/issues"
+  },
+  "homepage": "https://github.com/sajalarora11/graphql-prisma-app#readme",
+  "dependencies": {
+    "bcrypt": "^3.0.6",
+    "graphql-yoga": "^1.18.3",
+    "prisma-binding": "^2.3.15"
+  }
+}
