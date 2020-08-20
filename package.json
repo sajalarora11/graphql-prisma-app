@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/sajalarora11/graphql-prisma-app#readme",
   "dependencies": {
-    "bcrypt": "^3.0.6",
+    "bcrypt": "^5.0.0",
     "graphql-yoga": "^1.18.3",
     "prisma-binding": "^2.3.15"
   }
